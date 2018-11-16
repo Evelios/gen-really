@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
-data_loc = 'fma_metadata'
+data_loc = '/Users/Alice/Desktop/fma_metadata'
 
 # low_memory=False is to have multiple data types in the same matrix
 # this is not ideal. Needs better investigation of what is in tha dataset
