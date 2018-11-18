@@ -4,4 +4,5 @@ main.fdb_latexmk
 main.fls
 main.log
 main.synctex.gz
+.ipynb_checkpoints
 __pycache__
